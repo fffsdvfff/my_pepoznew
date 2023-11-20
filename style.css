@@ -2,8 +2,22 @@ body {
  margin: 0;
  font-family: Arial, Helvetica, sans-serif;
 }
+h1{
+    text-align: center;
+    margin-top: 20px;
+}
+#one {
+    background-color: blue;
+}
+#two {
+    background-color: blueviolet;
+}
+#three {
+    background-color: red;
+}
 h2 {
-vertical-align: top;
+border: 2px solid #000000;
+display: inline-block;
 
 
 
